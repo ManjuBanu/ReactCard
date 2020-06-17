@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ManjuBanu/ReactDemo.git/static/css/main.d96f4df5.chunk.css",
+    "main.js": "/ManjuBanu/ReactDemo.git/static/js/main.4abb07fb.chunk.js",
+    "main.js.map": "/ManjuBanu/ReactDemo.git/static/js/main.4abb07fb.chunk.js.map",
+    "runtime-main.js": "/ManjuBanu/ReactDemo.git/static/js/runtime-main.c9a699df.js",
+    "runtime-main.js.map": "/ManjuBanu/ReactDemo.git/static/js/runtime-main.c9a699df.js.map",
+    "static/css/2.d694ff75.chunk.css": "/ManjuBanu/ReactDemo.git/static/css/2.d694ff75.chunk.css",
+    "static/js/2.e3d800ca.chunk.js": "/ManjuBanu/ReactDemo.git/static/js/2.e3d800ca.chunk.js",
+    "static/js/2.e3d800ca.chunk.js.map": "/ManjuBanu/ReactDemo.git/static/js/2.e3d800ca.chunk.js.map",
+    "index.html": "/ManjuBanu/ReactDemo.git/index.html",
+    "precache-manifest.99880aeafdc18c56b574989ee0a7b368.js": "/ManjuBanu/ReactDemo.git/precache-manifest.99880aeafdc18c56b574989ee0a7b368.js",
+    "service-worker.js": "/ManjuBanu/ReactDemo.git/service-worker.js",
+    "static/css/2.d694ff75.chunk.css.map": "/ManjuBanu/ReactDemo.git/static/css/2.d694ff75.chunk.css.map",
+    "static/css/main.d96f4df5.chunk.css.map": "/ManjuBanu/ReactDemo.git/static/css/main.d96f4df5.chunk.css.map",
+    "static/js/2.e3d800ca.chunk.js.LICENSE.txt": "/ManjuBanu/ReactDemo.git/static/js/2.e3d800ca.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ManjuBanu/ReactDemo.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9a699df.js",
+    "static/css/2.d694ff75.chunk.css",
+    "static/js/2.e3d800ca.chunk.js",
+    "static/css/main.d96f4df5.chunk.css",
+    "static/js/main.4abb07fb.chunk.js"
+  ]
+}
