@@ -10,7 +10,8 @@ import {AboutMe} from './myself';
 import {LinksRouting} from './link-routing';
 import {ReduxRedux} from './react-redux';
 import {CardShow} from './card-show';
-
+import Assesment1 from './assesment1';
+import CharBox from './charBox';
 
 const RenderPart = styled.div`
 width:800px;
@@ -51,6 +52,12 @@ export class Routing extends React.Component{
         <li>
           <Link to="/cardShow">CardShow</Link>
         </li>
+        <li>
+          <Link to="/assesment1">Assesment1</Link>
+        </li>
+        <li>
+          <Link to="/assesment2">Assesment2</Link>
+        </li>
       </ul>
      
     <RenderPart>
@@ -63,6 +70,8 @@ export class Routing extends React.Component{
       <Route path="/apiAxios" component={ApiAxios} />
       <Route path='/reactRedux' component={ReduxRedux}/>
       <Route path='/cardShow' component={CardShow}/>
+      <Route path='/assesment1' component={Assesment1}/>
+      <Route path='/assesment2' component={CharBox}/>
       {/* <button onclick={navigate}></button>  */}
       </switch>
     </RenderPart>
