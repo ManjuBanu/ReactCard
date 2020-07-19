@@ -12,6 +12,7 @@ import {ReduxRedux} from './react-redux';
 import {CardShow} from './card-show';
 import Assesment1 from './assesment1';
 import CharBox from './charBox';
+import Person from './person';
 
 const RenderPart = styled.div`
 width:800px;
@@ -58,6 +59,9 @@ export class Routing extends React.Component{
         <li>
           <Link to="/assesment2">Assesment2</Link>
         </li>
+        <li>
+          <Link to="/person">Person</Link>
+        </li>
       </ul>
      
     <RenderPart>
@@ -72,6 +76,7 @@ export class Routing extends React.Component{
       <Route path='/cardShow' component={CardShow}/>
       <Route path='/assesment1' component={Assesment1}/>
       <Route path='/assesment2' component={CharBox}/>
+      <Route path='/person' component={Person}/>
       {/* <button onclick={navigate}></button>  */}
       </switch>
     </RenderPart>
